@@ -1,7 +1,8 @@
 # Testing the Multivariate Observer Effects framework (moe-testbench)
 ## Collaborators
-Craig H. Faunce: craig.faunce@noaa.gov;
-Debra Duarte: debra.duarte@noaa.gov
+The primary author(s) responsible for maintaining this repository are:
+* Craig H. Faunce (craig.faunce@noaa.gov)
+* Debra Duarte (debra.duarte@noaa.gov)
 
 # Description
 Addressing observer effects, wherein the act of observation has influence on the phenomenon being observed, is of great importance to science because its presence indicates that the results from data collected from observation (the sample) are biased and cannot be used to infer the properties of unobserved nature (the population). Within the context of fisheries monitoring, monitoring status can be defined by the presence / absence of an onboard monitoring system such as electronic cameras (EM) or a human observer at the level of the primary sampling unit (PSUs - trips or vessels). In fleets without full coverage, the monitored portion of PSUs represent a sample of the population of fishing by the fleet. Therefore, the presence of an observer effect means that the data from monitored trips are not representative of the entire fleet, and this bias can have broad implications to catch accounting and stock assessments used to manage fisheries.
