@@ -1,4 +1,4 @@
-# Testing the Multivariate Observer Effects framework (moe-testbench)
+# Testing the Multivariate Observer Effects Framework
 ## Collaborators
 The primary author(s) responsible for maintaining this repository are:
 * Craig H. Faunce (craig.faunce@noaa.gov)
