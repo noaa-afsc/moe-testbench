@@ -12,7 +12,7 @@ Analysts of the Fisheries Monitoring and Analysis Division (AFSC) have developed
 Despite its development, the relative performance of the method has not been tested. Its relative gains over other methods are based solely on reported advantages from other sources used in its development Wharton et al. [(2012)](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/j.2041-210X.2011.00127.x).  
 
 # Purpose
-The work in this repository aims to iterate the work of Duerte and Cadrin [(2004)](https://doi.org/10.1016/j.fishres.2024.107000) to include MOE in its evalution of the relative performance of methods used to measure observer effects in fisheries.
+The work aims to iterate the work of Duerte and Cadrin [(2004)](https://doi.org/10.1016/j.fishres.2024.107000) to include MOE in its evalution of the relative performance of methods used to measure observer effects in fisheries.
  
 # Disclaimer
 
