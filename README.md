@@ -14,7 +14,7 @@ Despite its development, the relative performance of the method has not been tes
 # Purpose
 The work aims to iterate the work of Duerte and Cadrin [(2004)](https://doi.org/10.1016/j.fishres.2024.107000) to include MOE in its evalution of the relative performance of methods used to measure observer effects in fisheries.
 
-The repo [mvglm-obs](https://github.com/noaa-afsc/mvglm-obs#) associated with conducting MOE will be used to source the most up to date code for this project.  Potential comparisons to this method are slim, because MOE uses a matrix as a response.  PERMANOVA is one for sure however.
+The repo [mvobservr](https://github.com/noaa-afsc/mvglm-obs#) associated with conducting MOE will be used to source the most up to date code for this project.  Potential comparisons to this method are slim, because MOE uses a matrix as a response.  PERMANOVA is one for sure however.
  
 # Disclaimer
 
